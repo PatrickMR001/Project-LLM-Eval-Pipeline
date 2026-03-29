@@ -15,7 +15,7 @@ def format_docs(docs):
 embeddings = OpenAIEmbeddings()
 
 vectorstore = Chroma(
-    persist_directory='/Users/patrickmischkeramirez/Documents/Job Practice /Portfolio/backend/chroma_db',
+    persist_directory='YOUR_PATH_HERE',
     embedding_function=embeddings
 )
 

@@ -1,0 +1,12 @@
+anthropic
+bert-score
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-openai
+nltk
+openai
+pandas
+python-dotenv
+rouge-score
